@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mp4TOmp3</string>
+    <string name="position">生成的文件储存在默认路径下的vvv/mp3</string>
+</resources>
